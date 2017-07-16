@@ -1,2 +1,5 @@
 # Hello-world
-Just another reposiory
+Just another repository
+
+
+ Junit, Java, Maven, Selenium Webdriver, BDD Cucumber 
